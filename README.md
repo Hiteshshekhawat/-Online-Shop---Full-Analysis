@@ -120,7 +120,7 @@ Mainly performed using Matplotlib and Seaborn library and the following graph an
     
 ## Summary 
 
-    The most important details in this text are that the maximum payment method is by card with 30%, while the minimum payment method is with cash or something. The maximum browser used by customers is Chrome 63.95%, followed by Safari 19.95%, edge 5.15%, and other browsers. The maximum number of customers who haven't subscribed to the newspaper is 84.91%, while 15.09% had subscribed. 74.98% of customers didn't use vouchers in their orders, while 25.02% used a voucher. Most of the booking is done in Chrome browser, followed by Safari, edge, and other browsers.
+The most important details in this text are that the maximum payment method is by card with 30%, while the minimum payment method is with cash or something. The maximum browser used by customers is Chrome 63.95%, followed by Safari 19.95%, edge 5.15%, and other browsers. The maximum number of customers who haven't subscribed to the newspaper is 84.91%, while 15.09% had subscribed. 74.98% of customers didn't use vouchers in their orders, while 25.02% used a voucher. Most of the booking is done in Chrome browser, followed by Safari, edge, and other browsers.
 
 Most of the customers are female, with 67.05% followed by 32.95
 
