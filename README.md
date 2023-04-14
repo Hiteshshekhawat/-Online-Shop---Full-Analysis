@@ -117,6 +117,4 @@ Mainly performed using Matplotlib and Seaborn library and the following graph an
     Pie Chart.
 
     Histplot.
-## Sign off
 
-This project is completed by **Hitesh Shekhawat** with the help of some kaggle notebook, youtube video.
